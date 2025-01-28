@@ -81,7 +81,7 @@ Ce dépôt contient le projet réalisé dans le cadre du cours de mathématiques
 * Phédeline François
 
 ## Contacts
-apollinaire-eyitayo.monteiro@etu.univ-paris1.fr
-phedeline.francois@etu.univ-paris1.fr
+- apollinaire-eyitayo.monteiro@etu.univ-paris1.fr
+- phedeline.francois@etu.univ-paris1.fr
 
 
