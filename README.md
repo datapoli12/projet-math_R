@@ -1,7 +1,7 @@
-<h1 style="color: green;"># Projet Mathématiques Avancées - Modélisation et Optimisation</h1>
+<h1 style="color: blue;"> Projet Mathématiques Avancées - Modélisation et Optimisation</h1>
 Ce dépôt contient le projet réalisé dans le cadre du cours de mathématiques avancées de la Licence 3 Économie et Mineure Informatique à l'Université Paris 1 Panthéon-Sorbonne, supervisé par le professeur Marc-Arthur Diaye. Ce projet explore des problématiques de nature mathématique, statistique et économétrique.
 
-<h2 style="color: green;"> Structure du projet</h2>
+<h2 style="color: blue;"> Structure du projet</h2>
 
 ### Partie 1 : Déterminants des Salaires (MCO)
 - Analyse des variables explicatives influençant le salaire net des salariés.
