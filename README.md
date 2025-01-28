@@ -1,5 +1,4 @@
-# Projet Mathématiques Avancées - Modélisation et Optimisation
-
+<h1 style="color: green;"># Projet Mathématiques Avancées - Modélisation et Optimisation</h1>
 Ce dépôt contient le projet réalisé dans le cadre du cours de mathématiques avancées de la Licence 3 Économie et Mineure Informatique à l'Université Paris 1 Panthéon-Sorbonne, supervisé par le professeur Marc-Arthur Diaye. Ce projet explore des problématiques de nature mathématique, statistique et économétrique.
 
 ## Structure du projet
