@@ -69,8 +69,8 @@ Ce dépôt contient le projet réalisé dans le cadre du cours de mathématiques
 
 ## Contenu du dépôt
 
-- **rapport.pdf** : Rapport complet détaillant les méthodologies, analyses et résultats.
-- **scripts** : Script R utilisé pour ce projet.
+- **Rapport.pdf** : Rapport complet détaillant les méthodologies, analyses et résultats.
+- **Scripts** : Script R utilisé pour ce projet.
 - **Les outputs en pdf** : Facilement consultable, patientez 10 seconde pour visualisation :blush:.
 - **README.md** : Présentation synthétique du projet.
 
